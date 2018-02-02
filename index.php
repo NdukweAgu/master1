@@ -18,7 +18,7 @@
 		<div class="col-md-6 col-md-offset-3">
 			<div class="panel panel-info">
 				<div class="panel-heading">
-					<h3>CRUD System Mr Vincent is with us now</h3>
+					<h3>CRUD System Mr Emmanuel</h3>
 				</div>
 				<div class="panel-body">
 					<form action="insert.php" method="post">
